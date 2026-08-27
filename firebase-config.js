@@ -1,12 +1,11 @@
-/* =========================================================================
-   FIREBASE CONFIG
-   Replace the values below with your own Firebase project's config.
-   Get this from: Firebase Console → Project settings (gear icon) →
-   General tab → "Your apps" → Web app → SDK setup and configuration.
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+import { getAnalytics } from "firebase/analytics";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
 
-   This file is loaded before script.js and creates the global `db`
-   object that script.js uses to read/write the shared leaderboard.
-   ========================================================================= */
+// Your web app's Firebase configuration
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
   apiKey: "AIzaSyDb8TrE9MHC-RTBrNo2IOoyp56il8ZJYO4",
   authDomain: "mcqhub-293ea.firebaseapp.com",
