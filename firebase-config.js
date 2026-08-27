@@ -8,14 +8,13 @@
    object that script.js uses to read/write the shared leaderboard.
    ========================================================================= */
 const firebaseConfig = {
-  apiKey: "AIzaSyCYObqMc783ZqsqriSFdY2Za7tZjDlj-BM",
-  authDomain: "mcqhub-76dcd.firebaseapp.com",
-  databaseURL: "https://mcqhub-76dcd-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "mcqhub-76dcd",
-  storageBucket: "mcqhub-76dcd.firebasestorage.app",
-  messagingSenderId: "203478212868",
-  appId: "1:203478212868:web:c004d851e1d6fb0e457051",
-  measurementId: "G-6580J85D7M"
+  apiKey: "AIzaSyDb8TrE9MHC-RTBrNo2IOoyp56il8ZJYO4",
+  authDomain: "mcqhub-293ea.firebaseapp.com",
+  projectId: "mcqhub-293ea",
+  storageBucket: "mcqhub-293ea.firebasestorage.app",
+  messagingSenderId: "1062989893115",
+  appId: "1:1062989893115:web:87b2a41ef81973701b0f5e",
+  measurementId: "G-YWZ0ZT7K4S"
 };
 
 // Initialize Firebase
